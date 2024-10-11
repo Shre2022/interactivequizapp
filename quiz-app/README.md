@@ -11,3 +11,9 @@ CSS: used for Styling the quiz interface and layout while including a responsive
 
 This is a simple web application but quite useful when it comes to learn more of how DOM manipulation and event handlers work!
 ![{DCA20D75-4934-49C4-A2AA-22855D58F44A}](https://github.com/user-attachments/assets/49a38c54-dbbc-4f0b-ac31-8883e9be40ae)
+
+![{2B622067-746F-4CB9-972D-FA07FE6FE24E}](https://github.com/user-attachments/assets/2242eacf-c7a5-4d63-aa8d-c46cac5c5d36)
+
+![{154260F6-5388-487A-B91D-DAF5E52C3F1C}](https://github.com/user-attachments/assets/56eed0ec-9869-4219-9203-d3f96ea9fff2)
+
+
