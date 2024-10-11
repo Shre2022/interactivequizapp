@@ -10,3 +10,4 @@ Bootstrap: Used Bootstrap components for an enhanced UI with modals and buttons.
 CSS: used for Styling the quiz interface and layout while including a responsive design.
 
 This is a simple web application but quite useful when it comes to learn more of how DOM manipulation and event handlers work!
+![{DCA20D75-4934-49C4-A2AA-22855D58F44A}](https://github.com/user-attachments/assets/49a38c54-dbbc-4f0b-ac31-8883e9be40ae)
